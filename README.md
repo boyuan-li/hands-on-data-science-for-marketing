@@ -2,11 +2,11 @@
 
 Yoon Hyup Hwang
 
-*Section 1. Introduction and environment setup*
+**Section 1. Introduction and environment setup**
 
 1. Data science and marketing 
 
-*Section 2. Descriptive versus explanatory analysis*
+**Section 2. Descriptive versus explanatory analysis**
 
 2. Key performance indicators and visualizations 
 
@@ -14,13 +14,13 @@ Yoon Hyup Hwang
 
 4. From engagement to conversion 
 
-*Section 3. Product visibility and marketing* 
+**Section 3. Product visibility and marketing**
 
 5. Product analytics 
 
 6. Recommending the right product 
 
-*Section 4. Personalized marketing* 
+**Section 4. Personalized marketing**
 
 7. Exploratory analysis for customer behavior 
 
@@ -32,7 +32,7 @@ Yoon Hyup Hwang
 
 11. Retaining customers 
 
-*Section 5. Better decision making*
+**Section 5. Better decision making**
 
 12. A/B testing for better marketing strategy 
 
