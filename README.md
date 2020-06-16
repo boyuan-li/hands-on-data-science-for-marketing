@@ -37,3 +37,6 @@ Yoon Hyup Hwang
 12. A/B testing for better marketing strategy 
 
 13. What's next
+
+
+First review: 2020-06-25
